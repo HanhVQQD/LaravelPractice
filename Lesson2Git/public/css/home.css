@@ -1,0 +1,13 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h1 {
+    color: red;
+}
+
+form {
+    background-color: rgb(67, 110, 148);
+    border: 1px solid black;
+}
